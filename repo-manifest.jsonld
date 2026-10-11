@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-vite/commit/5c49ec501d854e337452203b05c300a8e3c5e819",
       "git:hexsha": "5c49ec501d854e337452203b05c300a8e3c5e819",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.32.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.32.0",
+      "repolex:parsedAt": "2026-10-11T22:53:44.359733+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-vite/commit/dec91a658c8687246d2d374ce90fcd92e412013e",
